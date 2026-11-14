@@ -1,0 +1,13 @@
+kpi,definition,formula,example
+Answer,One synthetic response from one assistant to one prompt.,Count of answer_id,Synthetic example only.
+Mention,A synthetic brand named in an answer.,Count of mention_id,Synthetic example only.
+Visibility score,Share of answers that mention the brand at least once.,Answers mentioning brand / answers in scope,Synthetic example only.
+Share of voice,Brand mentions as a share of all brand mentions in scope.,Brand mentions / all brand mentions in scope,Synthetic example only.
+Sentiment score,Share of brand mentions with positive tone.,Positive mentions / brand mentions,Synthetic example only.
+Average position,Mean rank at which the brand is named inside an answer.,Mean(position),Synthetic example only.
+Top-3 rate,Share of brand mentions in positions 1 through 3.,Mentions at positions 1-3 / brand mentions,Synthetic example only.
+Prominence score,Visibility weighted by how prominently the brand is named.,"Sum(max(0, (11 - position) / 10)) / answers in scope",Synthetic example only.
+Citation,A synthetic source used to support a mention.,Count of citation rows,Synthetic example only.
+Content ownership,Synthetic source ownership category.,Categorical value,Synthetic example only.
+Source mix,Distribution of citations by content ownership.,Citations of a type / all citations in scope,Synthetic example only.
+Earned gap domain,A synthetic earned domain cited for competitors but not the target.,Distinct qualifying source domains,Synthetic example only.

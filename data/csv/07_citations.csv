@@ -1,0 +1,65 @@
+citation_id,mention_id,answer_id,wave_date,ai_system,prompt_id,brand_name,is_target,source_domain,source_type,content_format,content_ownership,content_url,author,publication_date,source_also_cites_target
+C001,M001,P01-ChatGPT,2025-01-01,ChatGPT,P01,Sample Client,TRUE,source-01.example,Synthetic directory,Listing,Owned,https://source-01.example/item-01,Synthetic Author 01,2024-01-02,FALSE
+C002,M002,P01-ChatGPT,2025-01-01,ChatGPT,P01,Brand Alpha,FALSE,source-02.example,Synthetic publication,Article,Earned,https://source-02.example/item-02,Synthetic Author 02,2024-01-03,FALSE
+C003,M003,P01-Claude,2025-01-01,Claude,P01,Brand Alpha,FALSE,,Synthetic directory,Listing,Model internal knowledge,,,,TRUE
+C004,M004,P01-Claude,2025-01-01,Claude,P01,Sample Client,TRUE,source-04.example,Synthetic publication,Article,User generated,https://source-04.example/item-04,Synthetic Author 04,2024-01-05,FALSE
+C005,M005,P01-Gemini,2025-01-01,Gemini,P01,Brand Alpha,FALSE,source-05.example,Synthetic directory,Listing,Owned,https://source-05.example/item-05,Synthetic Author 05,2024-01-06,FALSE
+C006,M006,P01-Gemini,2025-01-01,Gemini,P01,Brand Beta,FALSE,source-06.example,Synthetic publication,Article,Earned,https://source-06.example/item-06,Synthetic Author 06,2024-01-07,TRUE
+C007,M007,P01-Perplexity,2025-01-01,Perplexity,P01,Brand Alpha,FALSE,,Synthetic directory,Listing,Model internal knowledge,,,,FALSE
+C008,M008,P01-Perplexity,2025-01-01,Perplexity,P01,Brand Gamma,FALSE,source-08.example,Synthetic publication,Article,User generated,https://source-08.example/item-08,Synthetic Author 08,2024-01-09,FALSE
+C009,M009,P02-ChatGPT,2025-01-01,ChatGPT,P02,Sample Client,TRUE,source-09.example,Synthetic directory,Listing,Owned,https://source-09.example/item-09,Synthetic Author 09,2024-01-10,TRUE
+C010,M010,P02-ChatGPT,2025-01-01,ChatGPT,P02,Brand Alpha,FALSE,source-10.example,Synthetic publication,Article,Earned,https://source-10.example/item-10,Synthetic Author 10,2024-01-11,FALSE
+C011,M011,P02-Claude,2025-01-01,Claude,P02,Brand Alpha,FALSE,,Synthetic directory,Listing,Model internal knowledge,,,,FALSE
+C012,M012,P02-Claude,2025-01-01,Claude,P02,Sample Client,TRUE,source-12.example,Synthetic publication,Article,User generated,https://source-12.example/item-12,Synthetic Author 12,2024-01-13,TRUE
+C013,M013,P02-Gemini,2025-01-01,Gemini,P02,Brand Alpha,FALSE,source-13.example,Synthetic directory,Listing,Owned,https://source-13.example/item-13,Synthetic Author 13,2024-01-14,FALSE
+C014,M014,P02-Gemini,2025-01-01,Gemini,P02,Brand Beta,FALSE,source-14.example,Synthetic publication,Article,Earned,https://source-14.example/item-14,Synthetic Author 14,2024-01-15,FALSE
+C015,M015,P02-Perplexity,2025-01-01,Perplexity,P02,Brand Alpha,FALSE,,Synthetic directory,Listing,Model internal knowledge,,,,TRUE
+C016,M016,P02-Perplexity,2025-01-01,Perplexity,P02,Brand Gamma,FALSE,source-16.example,Synthetic publication,Article,User generated,https://source-16.example/item-16,Synthetic Author 16,2024-01-17,FALSE
+C017,M017,P03-ChatGPT,2025-01-01,ChatGPT,P03,Sample Client,TRUE,source-17.example,Synthetic directory,Listing,Owned,https://source-17.example/item-17,Synthetic Author 17,2024-01-18,FALSE
+C018,M018,P03-ChatGPT,2025-01-01,ChatGPT,P03,Brand Alpha,FALSE,source-18.example,Synthetic publication,Article,Earned,https://source-18.example/item-18,Synthetic Author 18,2024-01-19,TRUE
+C019,M019,P03-Claude,2025-01-01,Claude,P03,Brand Alpha,FALSE,,Synthetic directory,Listing,Model internal knowledge,,,,FALSE
+C020,M020,P03-Claude,2025-01-01,Claude,P03,Sample Client,TRUE,source-20.example,Synthetic publication,Article,User generated,https://source-20.example/item-20,Synthetic Author 20,2024-01-21,FALSE
+C021,M021,P03-Gemini,2025-01-01,Gemini,P03,Brand Alpha,FALSE,source-21.example,Synthetic directory,Listing,Owned,https://source-21.example/item-21,Synthetic Author 21,2024-01-22,TRUE
+C022,M022,P03-Gemini,2025-01-01,Gemini,P03,Brand Beta,FALSE,source-22.example,Synthetic publication,Article,Earned,https://source-22.example/item-22,Synthetic Author 22,2024-01-23,FALSE
+C023,M023,P03-Perplexity,2025-01-01,Perplexity,P03,Brand Alpha,FALSE,,Synthetic directory,Listing,Model internal knowledge,,,,FALSE
+C024,M024,P03-Perplexity,2025-01-01,Perplexity,P03,Brand Gamma,FALSE,source-24.example,Synthetic publication,Article,User generated,https://source-24.example/item-24,Synthetic Author 24,2024-01-25,TRUE
+C025,M025,P04-ChatGPT,2025-01-01,ChatGPT,P04,Sample Client,TRUE,source-25.example,Synthetic directory,Listing,Owned,https://source-25.example/item-25,Synthetic Author 25,2024-01-26,FALSE
+C026,M026,P04-ChatGPT,2025-01-01,ChatGPT,P04,Brand Alpha,FALSE,source-26.example,Synthetic publication,Article,Earned,https://source-26.example/item-26,Synthetic Author 26,2024-01-27,FALSE
+C027,M027,P04-Claude,2025-01-01,Claude,P04,Brand Alpha,FALSE,,Synthetic directory,Listing,Model internal knowledge,,,,TRUE
+C028,M028,P04-Claude,2025-01-01,Claude,P04,Sample Client,TRUE,source-28.example,Synthetic publication,Article,User generated,https://source-28.example/item-28,Synthetic Author 28,2024-01-29,FALSE
+C029,M029,P04-Gemini,2025-01-01,Gemini,P04,Brand Alpha,FALSE,source-29.example,Synthetic directory,Listing,Owned,https://source-29.example/item-29,Synthetic Author 29,2024-01-30,FALSE
+C030,M030,P04-Gemini,2025-01-01,Gemini,P04,Brand Beta,FALSE,source-30.example,Synthetic publication,Article,Earned,https://source-30.example/item-30,Synthetic Author 30,2024-01-31,TRUE
+C031,M031,P04-Perplexity,2025-01-01,Perplexity,P04,Brand Alpha,FALSE,,Synthetic directory,Listing,Model internal knowledge,,,,FALSE
+C032,M032,P04-Perplexity,2025-01-01,Perplexity,P04,Brand Gamma,FALSE,source-32.example,Synthetic publication,Article,User generated,https://source-32.example/item-32,Synthetic Author 32,2024-02-02,FALSE
+C033,M033,P05-ChatGPT,2025-01-01,ChatGPT,P05,Sample Client,TRUE,source-33.example,Synthetic directory,Listing,Owned,https://source-33.example/item-33,Synthetic Author 33,2024-02-03,TRUE
+C034,M034,P05-ChatGPT,2025-01-01,ChatGPT,P05,Brand Alpha,FALSE,source-34.example,Synthetic publication,Article,Earned,https://source-34.example/item-34,Synthetic Author 34,2024-02-04,FALSE
+C035,M035,P05-Claude,2025-01-01,Claude,P05,Brand Alpha,FALSE,,Synthetic directory,Listing,Model internal knowledge,,,,FALSE
+C036,M036,P05-Claude,2025-01-01,Claude,P05,Sample Client,TRUE,source-36.example,Synthetic publication,Article,User generated,https://source-36.example/item-36,Synthetic Author 36,2024-02-06,TRUE
+C037,M037,P05-Gemini,2025-01-01,Gemini,P05,Brand Alpha,FALSE,source-37.example,Synthetic directory,Listing,Owned,https://source-37.example/item-37,Synthetic Author 37,2024-02-07,FALSE
+C038,M038,P05-Gemini,2025-01-01,Gemini,P05,Brand Beta,FALSE,source-38.example,Synthetic publication,Article,Earned,https://source-38.example/item-38,Synthetic Author 38,2024-02-08,FALSE
+C039,M039,P05-Perplexity,2025-01-01,Perplexity,P05,Brand Alpha,FALSE,,Synthetic directory,Listing,Model internal knowledge,,,,TRUE
+C040,M040,P05-Perplexity,2025-01-01,Perplexity,P05,Brand Gamma,FALSE,source-40.example,Synthetic publication,Article,User generated,https://source-40.example/item-40,Synthetic Author 40,2024-02-10,FALSE
+C041,M041,P06-ChatGPT,2025-01-01,ChatGPT,P06,Sample Client,TRUE,source-41.example,Synthetic directory,Listing,Owned,https://source-41.example/item-41,Synthetic Author 41,2024-02-11,FALSE
+C042,M042,P06-ChatGPT,2025-01-01,ChatGPT,P06,Brand Alpha,FALSE,source-42.example,Synthetic publication,Article,Earned,https://source-42.example/item-42,Synthetic Author 42,2024-02-12,TRUE
+C043,M043,P06-Claude,2025-01-01,Claude,P06,Brand Alpha,FALSE,,Synthetic directory,Listing,Model internal knowledge,,,,FALSE
+C044,M044,P06-Claude,2025-01-01,Claude,P06,Sample Client,TRUE,source-44.example,Synthetic publication,Article,User generated,https://source-44.example/item-44,Synthetic Author 44,2024-02-14,FALSE
+C045,M045,P06-Gemini,2025-01-01,Gemini,P06,Brand Alpha,FALSE,source-45.example,Synthetic directory,Listing,Owned,https://source-45.example/item-45,Synthetic Author 45,2024-02-15,TRUE
+C046,M046,P06-Gemini,2025-01-01,Gemini,P06,Brand Beta,FALSE,source-46.example,Synthetic publication,Article,Earned,https://source-46.example/item-46,Synthetic Author 46,2024-02-16,FALSE
+C047,M047,P06-Perplexity,2025-01-01,Perplexity,P06,Brand Alpha,FALSE,,Synthetic directory,Listing,Model internal knowledge,,,,FALSE
+C048,M048,P06-Perplexity,2025-01-01,Perplexity,P06,Brand Gamma,FALSE,source-48.example,Synthetic publication,Article,User generated,https://source-48.example/item-48,Synthetic Author 48,2024-02-18,TRUE
+C001,M049,P07-ChatGPT,2025-01-01,ChatGPT,P07,Sample Client,TRUE,source-01.example,Synthetic directory,Listing,Owned,https://source-01.example/item-01,Synthetic Author 01,2024-01-02,FALSE
+C002,M050,P07-ChatGPT,2025-01-01,ChatGPT,P07,Brand Alpha,FALSE,source-02.example,Synthetic publication,Article,Earned,https://source-02.example/item-02,Synthetic Author 02,2024-01-03,FALSE
+C003,M051,P07-Claude,2025-01-01,Claude,P07,Brand Alpha,FALSE,,Synthetic directory,Listing,Model internal knowledge,,,,TRUE
+C004,M052,P07-Claude,2025-01-01,Claude,P07,Sample Client,TRUE,source-04.example,Synthetic publication,Article,User generated,https://source-04.example/item-04,Synthetic Author 04,2024-01-05,FALSE
+C005,M053,P07-Gemini,2025-01-01,Gemini,P07,Brand Alpha,FALSE,source-05.example,Synthetic directory,Listing,Owned,https://source-05.example/item-05,Synthetic Author 05,2024-01-06,FALSE
+C006,M054,P07-Gemini,2025-01-01,Gemini,P07,Brand Beta,FALSE,source-06.example,Synthetic publication,Article,Earned,https://source-06.example/item-06,Synthetic Author 06,2024-01-07,TRUE
+C007,M055,P07-Perplexity,2025-01-01,Perplexity,P07,Brand Alpha,FALSE,,Synthetic directory,Listing,Model internal knowledge,,,,FALSE
+C008,M056,P07-Perplexity,2025-01-01,Perplexity,P07,Brand Gamma,FALSE,source-08.example,Synthetic publication,Article,User generated,https://source-08.example/item-08,Synthetic Author 08,2024-01-09,FALSE
+C009,M057,P08-ChatGPT,2025-01-01,ChatGPT,P08,Sample Client,TRUE,source-09.example,Synthetic directory,Listing,Owned,https://source-09.example/item-09,Synthetic Author 09,2024-01-10,TRUE
+C010,M058,P08-ChatGPT,2025-01-01,ChatGPT,P08,Brand Alpha,FALSE,source-10.example,Synthetic publication,Article,Earned,https://source-10.example/item-10,Synthetic Author 10,2024-01-11,FALSE
+C011,M059,P08-Claude,2025-01-01,Claude,P08,Brand Alpha,FALSE,,Synthetic directory,Listing,Model internal knowledge,,,,FALSE
+C012,M060,P08-Claude,2025-01-01,Claude,P08,Sample Client,TRUE,source-12.example,Synthetic publication,Article,User generated,https://source-12.example/item-12,Synthetic Author 12,2024-01-13,TRUE
+C013,M061,P08-Gemini,2025-01-01,Gemini,P08,Brand Alpha,FALSE,source-13.example,Synthetic directory,Listing,Owned,https://source-13.example/item-13,Synthetic Author 13,2024-01-14,FALSE
+C014,M062,P08-Gemini,2025-01-01,Gemini,P08,Brand Beta,FALSE,source-14.example,Synthetic publication,Article,Earned,https://source-14.example/item-14,Synthetic Author 14,2024-01-15,FALSE
+C015,M063,P08-Perplexity,2025-01-01,Perplexity,P08,Brand Alpha,FALSE,,Synthetic directory,Listing,Model internal knowledge,,,,TRUE
+C016,M064,P08-Perplexity,2025-01-01,Perplexity,P08,Brand Gamma,FALSE,source-16.example,Synthetic publication,Article,User generated,https://source-16.example/item-16,Synthetic Author 16,2024-01-17,FALSE

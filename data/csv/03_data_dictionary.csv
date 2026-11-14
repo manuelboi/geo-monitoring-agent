@@ -1,0 +1,9 @@
+sheet,column,description
+prompts,prompt_id,Stable identifier for a synthetic prompt.
+prompts,query_it,Synthetic Italian-language prompt text.
+answers,answer_id,Prompt and assistant identifier.
+answers,answer_text_it,Synthetic Italian-language answer text.
+mentions,brand_name,Synthetic brand label.
+mentions,position,Synthetic rank within the answer.
+citations,source_domain,Reserved example domain for synthetic citations.
+citations,content_url,Synthetic URL using the reserved example domain.

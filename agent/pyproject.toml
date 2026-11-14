@@ -1,0 +1,7 @@
+[tool.ruff]
+line-length = 120
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+# The container user cannot write a cache next to the code
+addopts = "-p no:cacheprovider"

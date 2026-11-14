@@ -1,0 +1,9 @@
+prompt_id,query_it,label_en,theme,buyer_type
+P01,Quali brand compaiono nel tema sintetico 01?,Synthetic prompt 01,Theme 1,Buyer type 1
+P02,Quali brand compaiono nel tema sintetico 02?,Synthetic prompt 02,Theme 2,Buyer type 2
+P03,Quali brand compaiono nel tema sintetico 03?,Synthetic prompt 03,Theme 1,Buyer type 1
+P04,Quali brand compaiono nel tema sintetico 04?,Synthetic prompt 04,Theme 2,Buyer type 2
+P05,Quali brand compaiono nel tema sintetico 05?,Synthetic prompt 05,Theme 1,Buyer type 1
+P06,Quali brand compaiono nel tema sintetico 06?,Synthetic prompt 06,Theme 2,Buyer type 2
+P07,Quali brand compaiono nel tema sintetico 07?,Synthetic prompt 07,Theme 1,Buyer type 1
+P08,Quali brand compaiono nel tema sintetico 08?,Synthetic prompt 08,Theme 2,Buyer type 2
